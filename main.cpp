@@ -10,6 +10,8 @@ int main() {
   cout << "Algo";
 
 
+  //un comentario
+
   int val1=10, val2=1;
   bool res;
   res = val1 >= val2;
